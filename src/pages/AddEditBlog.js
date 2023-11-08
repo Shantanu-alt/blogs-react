@@ -25,7 +25,7 @@ const initialState = {
 };
 
 const categoryOption = [
-  "F",
+  "Books Donation",
   "Clothes Donation",
   "Food Donation",
   "Money Donation",
