@@ -25,12 +25,12 @@ const initialState = {
 };
 
 const categoryOption = [
-  "Fashion",
-  "Technology",
-  "Food",
-  "Politics",
-  "Sports",
-  "Business",
+  "F",
+  "Clothes Donation",
+  "Food Donation",
+  "Money Donation",
+  "Cleanup Drive",
+  "Other NGO Functions",
 ];
 
 const AddEditBlog = ({ user, setActive }) => {
