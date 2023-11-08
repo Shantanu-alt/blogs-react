@@ -4,13 +4,13 @@ import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC8a80lBGQCjbryitNftCzVl-jtCQYLlgk",
-  authDomain: "react-blogs-app-f246d.firebaseapp.com",
-  projectId: "react-blogs-app-f246d",
-  storageBucket: "react-blogs-app-f246d.appspot.com",
-  messagingSenderId: "727014674693",
-  appId: "1:727014674693:web:56da6bb037fc499b39e76c",
-  measurementId: "G-EBHZ0VH0X7"
+  apiKey: "AIzaSyDjodJd3gc6lbLwI82Mhs_larUkMTP6Eho",
+  authDomain: "fir-blog-d557b.firebaseapp.com",
+  projectId: "fir-blog-d557b",
+  storageBucket: "fir-blog-d557b.appspot.com",
+  messagingSenderId: "905353743065",
+  appId: "1:905353743065:web:ec7b8ab2e3a5ee8cbb4cc8",
+  measurementId: "G-5N0BC4N0Z9"
 };
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
